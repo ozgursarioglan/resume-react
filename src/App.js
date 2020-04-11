@@ -47,6 +47,7 @@ function App() {
           <div class="list-card">
             <span class="exp">+ 4 years</span>
             <div>
+              
               <h3>Business Intelligence</h3>
               <span>Microsoft Integration Services, SSRS, Oracle BI</span>
             </div>
