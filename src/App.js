@@ -172,13 +172,13 @@ function App() {
             <p class="description">
               Management Information Systems - Anadolu University
             </p>
-            <span class="date">Apr. 2018 - Sep. 2020</span>
+            <span class="date">September 2017 - June 2019</span>
           </li>
 
           <li>
             <span class="point"></span>
             <p class="description">Computer Programming - KSU</p>
-            <span class="date">Today - Apr. 2016</span>
+            <span class="date">September 2014 - June 2018</span>
           </li>
         </ol>
       </div>
