@@ -12,9 +12,20 @@ function App() {
 
           <span class="email">
             {" "}
-            <a target="_blank" href="mailto:ozgursarioglan@hotmail.com">✉️ E-Mail</a> —{" "}
-            <a target="_blank" href="https://github.com/ozgursarioglan/">Github</a> —{" "}
-            <a target="_blank" href="https://www.linkedin.com/in/ozgursarioglan/">Linkedin</a>{" "}
+            <a target="_blank" href="mailto:ozgursarioglan@hotmail.com">
+              ✉️ E-Mail
+            </a>{" "}
+            —{" "}
+            <a target="_blank" href="https://github.com/ozgursarioglan/">
+              Github
+            </a>{" "}
+            —{" "}
+            <a
+              target="_blank"
+              href="https://www.linkedin.com/in/ozgursarioglan/"
+            >
+              Linkedin
+            </a>{" "}
           </span>
 
           <h2 class="lead">
@@ -47,7 +58,6 @@ function App() {
           <div class="list-card">
             <span class="exp">+ 4 years</span>
             <div>
-              
               <h3>Business Intelligence</h3>
               <span>Microsoft Integration Services, SSRS, Oracle BI</span>
             </div>
@@ -178,7 +188,11 @@ function App() {
 
       <footer class="container">
         <span>
-          <a href="#"> developed using react.js 💻</a> to be or not to be{" "}
+          <a href="https://github.com/ozgursarioglan/resume-react">
+            {" "}
+            developed using react.js 💻
+          </a>{" "}
+          to be or not to be{" "}
         </span>
       </footer>
     </div>
