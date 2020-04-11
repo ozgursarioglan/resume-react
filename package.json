@@ -1,6 +1,10 @@
 {
   "name": "resume-react",
   "version": "0.1.0",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ozgursarioglan/resume-react.git"
+  },
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^4.2.4",
